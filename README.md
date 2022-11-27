@@ -1,6 +1,5 @@
-# java_projects
-Java projects 
-*CSVViewer 
-*CSVStatReporter
-*TextToSpeechEditor
-*AI simple algorithms
+# JavaProjects
+* CSVViewer 
+* CSVStatReporter
+* TextToSpeechEditor
+* AI simple algorithms
