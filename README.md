@@ -2,4 +2,4 @@
 * CSVViewer 
 * CSVStatReporter
 * TextToSpeechEditor
-* AI simple algorithms
+* AI Simple Algorithms { UCS, Minimax }
