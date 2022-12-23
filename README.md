@@ -1,5 +1,5 @@
-# JavaProjects
-* CSVViewer 
-* CSVStatReporter
-* TextToSpeechEditor
+# javaProjects
+* csvViewer 
+* csvStatReporter
+* textToSpeechEditor
 * AI simple algorithms { UCS, Minimax }
