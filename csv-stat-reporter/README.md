@@ -1,5 +1,7 @@
-# CSV-statistics-reporter
+# csvStatisticsReporter
 Project for the lesson of Software Development 2019
+## Purpose
+Java application for analyzing [Kaggle](https://www.kaggle.com/uciml/electric-power-consumption-data-set) dataset. 
 ## UML
 ### package _dataload;_
 ![dataload.png](uml%2Fdataload.png)
