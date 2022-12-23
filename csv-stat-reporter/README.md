@@ -8,7 +8,10 @@ Java application for analyzing [Kaggle](https://www.kaggle.com/uciml/electric-po
 The package responsible for reading the measurement data from the input files and
 loading them in the appropriate collection(s) in memory. The main functionality of this
 subsystem is summarized by the interface ILoader.
+*br*
 ![dataload.png](uml%2Fdataload.png)
+*br*
+*br*
 ### package _datamodel;_
 The package keeping the domain classes of the system. Notable modules are the IResult
 interface, that prescribes the functionality of the aggregation result, and, the
