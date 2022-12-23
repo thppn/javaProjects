@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ffbc3d9-6c69-49dd-84f2-ee0d2e55e75d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/Resources/2010-CommissionBudget.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/Resources/2014-Budget-GR.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/Resources/NBA_player_data_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/Resources/NBA_player_data_2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/Resources/NBA_player_season_stats.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/Resources/NBA_team_stats.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/Resources/SameSuperstoreSales.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/Resources/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/Resources/test2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/client/controllers/AttributePairSelector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/client/controllers/FilterConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/client/controllers/LineChartPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/client/controllers/MainAppController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/client/controllers/NameGiverForDatasetController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/client/controllers/ScatterChartController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/client/controllers/ScatterChartPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/client/controllers/TableViewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/client/controllers/controllers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/com/csv_viewer/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/com/csv_viewer/views/MainApp.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/server/Dataset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/server/DatasetManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/server/DatasetManagerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/server/IDatasetManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/server/NativeDataset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/server/server.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/tests/AllTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/tests/DatasetManagerFactoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/tests/DatasetManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/tests/DatasetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/tests/SimpleCSVReaderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/java/utils/SimpleCSVReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csv_viewer/src/main/resources/com/csv_viewer/MainApp.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JJ720Bd1OvUj6D5cQYAcJiOYN0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/thppn/Desktop/code/github/java_projects/csv-viewer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thppn\Desktop\code\github\java_projects\csv_viewer\src" />
+      <recent name="C:\Users\thppn\Desktop\code\github\java_projects\csv_viewer\src\main\resources\com\csv_viewer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thppn\Desktop\code\github\java_projects\csv-viewer\uml" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.csv_viewer" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ffbc3d9-6c69-49dd-84f2-ee0d2e55e75d" name="Changes" comment="" />
+      <created>1671784124218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671784124218</updated>
+      <workItem from="1671784124985" duration="3468000" />
+      <workItem from="1671788453755" duration="12000" />
+      <workItem from="1671789357687" duration="9000" />
+      <workItem from="1671789798169" duration="195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalAccessException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
