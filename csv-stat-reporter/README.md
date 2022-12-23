@@ -3,15 +3,15 @@ Project for the lesson of Software Development 2019
 ## Purpose
 Java application for analyzing [Kaggle](https://www.kaggle.com/uciml/electric-power-consumption-data-set) household electric power consumption dataset.
 ## UML
-
+\
+\
 ### package _dataload;_
 The package responsible for reading the measurement data from the input files and
 loading them in the appropriate collection(s) in memory. The main functionality of this
 subsystem is summarized by the interface ILoader.
-*br*
+
 ![dataload.png](uml%2Fdataload.png)
-*br*
-*br*
+
 ### package _datamodel;_
 The package keeping the domain classes of the system. Notable modules are the IResult
 interface, that prescribes the functionality of the aggregation result, and, the
