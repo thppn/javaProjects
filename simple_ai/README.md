@@ -1,4 +1,4 @@
-# AI basic examples
+# AI algorithms
 * Uniform Cost Search
 * A* Search
 * Minimax implementation for SOS Game
