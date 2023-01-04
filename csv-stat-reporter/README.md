@@ -1,8 +1,12 @@
 # csvStatisticsReporter
 Project for the lesson of Software Development 2019
-## Purpose
-Java application for analyzing [Kaggle](https://www.kaggle.com/uciml/electric-power-consumption-data-set) household electric power consumption dataset.
+## Description
+This application reads CSV files from the Kaggle dataset on household power consumption and aggregates the consumption data for the kitchen, laundry room, and electric water heater. The available aggregate functions are sum and average, but the architecture of the application allows for easy expansion to add more functions.
 
+The application also creates reports in HTML, Markdown, and TXT format, and it is easy to add more report types. JUnit tests and a UML diagram are provided to aid in the development and maintenance of the application.
+
+## Requirements
+* Java 8 or higher
 
 ## UML
 ### package _dataload;_
