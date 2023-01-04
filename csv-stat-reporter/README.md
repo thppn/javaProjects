@@ -3,7 +3,7 @@ Project for the lesson of Software Development 2019
 ## Description
 This application reads CSV files from the Kaggle dataset on household power consumption and aggregates the consumption data for the kitchen, laundry room, and electric water heater. The available aggregate functions are sum and average, but the architecture of the application allows for easy expansion to add more functions.
 
-The application also creates reports in HTML, Markdown, and TXT format, and it is easy to add more report types. JUnit tests and a UML diagram are provided to aid in the development and maintenance of the application.
+The application also creates reports in HTML, Markdown, and TXT format, and it is easy to add more report types. JUnit tests and UML diagrams are provided to aid in the development and maintenance of the application.
 
 ## Requirements
 * Java 8 or higher
